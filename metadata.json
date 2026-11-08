@@ -1,0 +1,6 @@
+{
+  "name": "My AI Studio",
+  "description": "တရုတ်ရုပ်ရှင်နှင့် ဗီဒီယိုများကို မြန်မာလို အသံထွက် ဇာတ်လမ်းပြော ရုပ်ရှင်အကျဉ်းချုပ် (Recap Video) အဖြစ် အလိုအလျောက် ပြောင်းလဲပေးသည့် AI စနစ်",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

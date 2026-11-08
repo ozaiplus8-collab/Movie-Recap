@@ -1,0 +1,208 @@
+[
+  {
+    "id": "recap_1794114848723_nj0t",
+    "title": "တရုတ်သိုင်းရုပ်ရှင် ဇာတ်လမ်းပြော Recap",
+    "status": "completed",
+    "progressPercent": 100,
+    "currentStep": 7,
+    "totalSteps": 7,
+    "currentStepName": "လုပ်ဆောင်ချက် အားလုံး အောင်မြင်စွာ ပြီးဆုံးပါပြီ!",
+    "createdAt": "2026-11-08T05:14:08.723Z",
+    "updatedAt": "2026-11-08T05:20:18.157Z",
+    "originalVideoPath": "/app/applet/uploads/sample_chinese_movie_1794114832735.mp4",
+    "originalVideoUrl": "/uploads/sample_chinese_movie_1794114832735.mp4",
+    "originalFilename": "Chinese_Martial_Arts_Sample.mp4",
+    "fileSizeBytes": 241394,
+    "durationSeconds": 12,
+    "resolution": "960x540",
+    "recapLength": "medium",
+    "voiceId": "my-MM-NilarNeural",
+    "voiceSpeed": 1,
+    "muteOriginalAudio": false,
+    "duckOriginalAudio": true,
+    "audioPath": "/app/applet/outputs/recap_1794114848723_nj0t/original_audio.mp3",
+    "chineseTranscript": {
+      "fullText": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目",
+      "segments": [
+        {
+          "id": 1,
+          "start": 0,
+          "end": 11.98,
+          "text": "请不吝点赞 订阅 转发 打赏支持明镜与点点栏目"
+        }
+      ],
+      "duration": 12
+    },
+    "ocrFrames": [],
+    "burmeseScript": "ဒီဇာတ်လမ်းထဲမှာတော့ ရှေးခေတ်တရုတ်ပြည်ရဲ့ နန်းတွင်းသူရဲကောင်းတစ်ယောက်ရဲ့ စိတ်ဝင်စားဖွယ်ရာ စွန့်စားခန်းကို တွေ့မြင်ရမှာ ဖြစ်ပါတယ်။ တရုတ်စကားပြောထဲမှာတော့ \"请不吝点赞 订阅 转发 打赏支持明镜与点点栏目\" လို့ ဖော်ပြထားပါတယ်။ အဓိကဇာတ်ကောင်ဟာ မတရားမှုကို တွန်းလှန်ရင်း မိမိချစ်မြတ်နိုးရသူတွေကို ကာကွယ်ဖို့ ရဲဝံ့စွာ တိုက်ခိုက်ခဲ့ပါတယ်။ မထင်မှတ်ထားတဲ့ အလှည့်အပြောင်းတွေနဲ့ ရင်ဆိုင်ရပြီးနောက် နောက်ဆုံးမှာတော့ အခက်အခဲအားလုံးကို အောင်မြင်စွာ ကျော်လွှားနိုင်ခဲ့တာကို မြင်တွေ့ရမှာ ဖြစ်ပါတယ်။",
+    "storySummary": {
+      "mainCharacters": "တရုတ်သူရဲကောင်းနှင့် မဟာမိတ်များ",
+      "plotSummary": "မတရားမှုကို တွန်းလှန်ပြီး သစ္စာတရားကို ဖော်ထုတ်သော ဇာတ်လမ်း",
+      "theme": "သတ္တိ၊ သစ္စာနှင့် ချစ်ခြင်းမေတ္တာ"
+    },
+    "narrationAudioPath": "/app/applet/outputs/recap_1794114848723_nj0t/burmese_narration.mp3",
+    "narrationAudioUrl": "/outputs/recap_1794114848723_nj0t/burmese_narration.mp3",
+    "narrationDurationSeconds": 29.5,
+    "subtitles": [
+      {
+        "id": 1,
+        "start": 0,
+        "end": 8.32,
+        "text": "ဒီဇာတ်လမ်းထဲမှာတော့ ရှေးခေတ်တရုတ်ပြည်ရဲ့ နန်းတွင်းသူရဲကောင်းတစ်ယောက်ရဲ့ စိတ်ဝင်စားဖွယ်ရာ စွန့်စားခန်းကို တွေ့မြင်ရမှာ ဖြစ်ပါတယ်။"
+      },
+      {
+        "id": 2,
+        "start": 8.42,
+        "end": 12.9,
+        "text": "တရုတ်စကားပြောထဲမှာတော့ \"请不吝点赞 订阅 转发 打赏支持明镜与点点栏目\" လို့ ဖော်ပြထားပါတယ်။"
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 19.95,
+        "text": "အဓိကဇာတ်ကောင်ဟာ မတရားမှုကို တွန်းလှန်ရင်း မိမိချစ်မြတ်နိုးရသူတွေကို ကာကွယ်ဖို့ ရဲဝံ့စွာ တိုက်ခိုက်ခဲ့ပါတယ်။"
+      },
+      {
+        "id": 4,
+        "start": 20.05,
+        "end": 29.8,
+        "text": "မထင်မှတ်ထားတဲ့ အလှည့်အပြောင်းတွေနဲ့ ရင်ဆိုင်ရပြီးနောက် နောက်ဆုံးမှာတော့ အခက်အခဲအားလုံးကို အောင်မြင်စွာ ကျော်လွှားနိုင်ခဲ့တာကို မြင်တွေ့ရမှာ ဖြစ်ပါတယ်။"
+      }
+    ],
+    "srtPath": "/app/applet/outputs/recap_1794114848723_nj0t/burmese_subtitles.srt",
+    "srtUrl": "/outputs/recap_1794114848723_nj0t/burmese_subtitles.srt",
+    "finalVideoPath": "/app/applet/outputs/recap_1794114848723_nj0t/recap_1794114848723_nj0t_final_recap.mp4",
+    "finalVideoUrl": "/outputs/recap_1794114848723_nj0t/recap_1794114848723_nj0t_final_recap.mp4"
+  },
+  {
+    "id": "recap_1794115114996_bsou",
+    "title": "1000303833",
+    "status": "processing",
+    "progressPercent": 40,
+    "currentStep": 3,
+    "totalSteps": 7,
+    "currentStepName": "အဆင့် ၃ - FFmpeg နှင့် Gemini Vision ဖြင့် စာတန်းထိုးနှင့် မြင်ကွင်းများကို ဖတ်ရှုနေပါသည်...",
+    "createdAt": "2026-11-08T05:18:34.996Z",
+    "updatedAt": "2026-11-08T05:18:36.304Z",
+    "originalVideoPath": "/app/applet/uploads/video_1794115102485_cehuv.mp4",
+    "originalVideoUrl": "/uploads/video_1794115102485_cehuv.mp4",
+    "originalFilename": "1000303833.mp4",
+    "fileSizeBytes": 16167842,
+    "durationSeconds": 30,
+    "resolution": "1080x1920",
+    "recapLength": "long",
+    "voiceId": "my-MM-ThihaNeural",
+    "voiceSpeed": 1.1,
+    "muteOriginalAudio": true,
+    "duckOriginalAudio": false,
+    "audioPath": "/app/applet/outputs/recap_1794115114996_bsou/original_audio.mp3",
+    "chineseTranscript": {
+      "fullText": "他走他的跟你们租金有什么关系怎么没关系以前那么多货车司机采购商装卸工他们全在这消费现在都去瑞川了这边一天连以前三中都不到生意不好是你们自己的问题怎么成我们自己的问题以前五点就忙现在七点坐不满三桌你让我们拿什么交原来的租金那你想怎么样先降一点等重新",
+      "segments": [
+        {
+          "id": 1,
+          "start": 0,
+          "end": 2.2,
+          "text": "他走他的"
+        },
+        {
+          "id": 2,
+          "start": 2.2,
+          "end": 4.42,
+          "text": "跟你们租金有什么关系"
+        },
+        {
+          "id": 3,
+          "start": 4.42,
+          "end": 6.04,
+          "text": "怎么没关系"
+        },
+        {
+          "id": 4,
+          "start": 6.04,
+          "end": 8.42,
+          "text": "以前那么多货车司机"
+        },
+        {
+          "id": 5,
+          "start": 8.42,
+          "end": 9.54,
+          "text": "采购商装卸工"
+        },
+        {
+          "id": 6,
+          "start": 9.54,
+          "end": 10.84,
+          "text": "他们全在这消费"
+        },
+        {
+          "id": 7,
+          "start": 10.84,
+          "end": 14.74,
+          "text": "现在都去瑞川了"
+        },
+        {
+          "id": 8,
+          "start": 14.74,
+          "end": 17.16,
+          "text": "这边一天"
+        },
+        {
+          "id": 9,
+          "start": 17.16,
+          "end": 18.22,
+          "text": "连以前三中都不到"
+        },
+        {
+          "id": 10,
+          "start": 18.22,
+          "end": 20.22,
+          "text": "生意不好是你们自己的问题"
+        },
+        {
+          "id": 11,
+          "start": 20.22,
+          "end": 21.66,
+          "text": "怎么成我们自己的问题"
+        },
+        {
+          "id": 12,
+          "start": 21.66,
+          "end": 23.18,
+          "text": "以前五点就忙"
+        },
+        {
+          "id": 13,
+          "start": 23.18,
+          "end": 24.68,
+          "text": "现在七点坐不满三桌"
+        },
+        {
+          "id": 14,
+          "start": 24.68,
+          "end": 26.48,
+          "text": "你让我们拿什么交原来的租金"
+        },
+        {
+          "id": 15,
+          "start": 26.48,
+          "end": 28.3,
+          "text": "那你想怎么样"
+        },
+        {
+          "id": 16,
+          "start": 28.3,
+          "end": 29.32,
+          "text": "先降一点"
+        },
+        {
+          "id": 17,
+          "start": 29.32,
+          "end": 30.02,
+          "text": "等重新"
+        }
+      ],
+      "duration": 30.02
+    }
+  }
+]
